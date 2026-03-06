@@ -1,0 +1,17 @@
+{
+  "name": "blackhost-bot",
+  "version": "2.0.0",
+  "description": "Black Host Ultimate Discord Store Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "setup": "node setup.js"
+  },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "@discordjs/rest": "^2.0.0",
+    "discord-api-types": "^0.37.0",
+    "dotenv": "^17.3.1"
+  }
+}

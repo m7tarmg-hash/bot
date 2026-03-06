@@ -1,0 +1,29 @@
+{
+  "ownerId": "",
+  "guildId": "412260364697468948",
+  "colors": {
+    "gold": 16766720,
+    "red": 16711680,
+    "green": 3066993,
+    "blue": 3447003,
+    "dark": 2829099
+  },
+  "store": {
+    "name": "Black Host",
+    "tagline": "Premium Digital Store",
+    "launchCode": "BLACKHOST10",
+    "launchDiscount": "10%"
+  },
+  "rules": [
+    "Treat all members and staff with respect. Harassment or hate speech = **instant ban**.",
+    "Any scam attempt will result in a **permanent ban** and report to Discord Trust & Safety.",
+    "Initiating a chargeback after receiving your product is fraud. Legal action may be taken.",
+    "Do not spam messages, emojis, or pings. Use appropriate channels.",
+    "No advertising other servers or services without Admin permission.",
+    "Use English in all public channels so staff can moderate effectively.",
+    "All sales are **final**. Refunds only if product was not delivered. Contact support within **24 hours**.",
+    "Most orders are delivered within **1–24 hours**. If delayed, open a ticket.",
+    "New members must verify to access the full server.",
+    "Staff decisions are final. If you disagree, open a ticket — don't argue publicly."
+  ]
+}

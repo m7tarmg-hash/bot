@@ -1,0 +1,9 @@
+services:
+  - type: worker
+    name: blackhost-bot
+    env: node
+    buildCommand: npm install
+    startCommand: node bot.js
+    envVars:
+      - key: DISCORD_TOKEN
+        value: MTQ3OTE5NTI3MzUyNzAzODA5OA.GOX6mo.c2m5YdJheh1UqBYWLt32BP3AWqdFKpmayzlAXg

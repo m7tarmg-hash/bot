@@ -1,0 +1,98 @@
+{
+  "discord-nitro": {
+    "name": "Discord Nitro",
+    "emoji": "💜",
+    "description": "Boost your Discord experience with Nitro! Animated avatars, custom emojis, bigger uploads, server boosts and more.",
+    "prices": [
+      { "plan": "Nitro Basic (1 Month)", "price": "$1.50" },
+      { "plan": "Nitro (1 Month)", "price": "$4.00" },
+      { "plan": "Nitro (3 Months)", "price": "$10.00" },
+      { "plan": "Nitro (12 Months)", "price": "$35.00" }
+    ],
+    "note": "Delivered within 1-24 hours after payment confirmation."
+  },
+  "netflix": {
+    "name": "Netflix",
+    "emoji": "🔴",
+    "description": "Stream unlimited movies and TV shows in HD and 4K. Access the full Netflix library with a premium account.",
+    "prices": [
+      { "plan": "Standard (1 Month)", "price": "$5.00" },
+      { "plan": "Standard (3 Months)", "price": "$13.00" },
+      { "plan": "Premium 4K (1 Month)", "price": "$7.00" },
+      { "plan": "Premium 4K (3 Months)", "price": "$18.00" }
+    ],
+    "note": "Shared or private accounts available. Ask in ticket."
+  },
+  "crunchyroll": {
+    "name": "Crunchyroll",
+    "emoji": "🟠",
+    "description": "Watch the latest anime with no ads! Simulcasts from Japan, manga library, and offline downloads included.",
+    "prices": [
+      { "plan": "Fan (1 Month)", "price": "$2.00" },
+      { "plan": "Mega Fan (1 Month)", "price": "$3.00" },
+      { "plan": "Ultimate Fan (1 Month)", "price": "$4.00" },
+      { "plan": "Mega Fan (12 Months)", "price": "$25.00" }
+    ],
+    "note": "Full premium access, all regions supported."
+  },
+  "spotify": {
+    "name": "Spotify Premium",
+    "emoji": "🟢",
+    "description": "Listen to music ad-free, download songs, unlimited skips, and highest audio quality available.",
+    "prices": [
+      { "plan": "Premium (1 Month)", "price": "$2.50" },
+      { "plan": "Premium (3 Months)", "price": "$6.00" },
+      { "plan": "Premium (12 Months)", "price": "$20.00" },
+      { "plan": "Family Plan (1 Month)", "price": "$5.00" }
+    ],
+    "note": "Individual and family plans available."
+  },
+  "xbox-gamepass": {
+    "name": "Xbox Game Pass",
+    "emoji": "🎮",
+    "description": "Access hundreds of games on Xbox and PC. Includes Xbox Live Gold and EA Play with Ultimate.",
+    "prices": [
+      { "plan": "Game Pass Core (1 Month)", "price": "$3.00" },
+      { "plan": "Game Pass Ultimate (1 Month)", "price": "$5.00" },
+      { "plan": "Game Pass Ultimate (3 Months)", "price": "$13.00" },
+      { "plan": "PC Game Pass (1 Month)", "price": "$3.50" }
+    ],
+    "note": "Digital codes delivered instantly or via account."
+  },
+  "steam-games": {
+    "name": "Steam Games & Gift Cards",
+    "emoji": "🔵",
+    "description": "Get the latest Steam games and gift cards at 30-50% below market prices. Any game, any region!",
+    "prices": [
+      { "plan": "Steam Gift Cards", "price": "Market -30%" },
+      { "plan": "AAA Game Keys", "price": "From $5.00" },
+      { "plan": "Indie Game Keys", "price": "From $2.00" },
+      { "plan": "Custom Request", "price": "DM for quote" }
+    ],
+    "note": "Open a ticket and mention the exact game for pricing."
+  },
+  "vpn-services": {
+    "name": "VPN Services",
+    "emoji": "🛡️",
+    "description": "Stay private and secure online. Unblock geo-restricted content from anywhere in the world.",
+    "prices": [
+      { "plan": "NordVPN (1 Month)", "price": "$3.00" },
+      { "plan": "NordVPN (12 Months)", "price": "$20.00" },
+      { "plan": "ExpressVPN (1 Month)", "price": "$4.00" },
+      { "plan": "Surfshark (12 Months)", "price": "$18.00" }
+    ],
+    "note": "Premium accounts, all devices supported."
+  },
+  "other-products": {
+    "name": "Other Digital Products",
+    "emoji": "📱",
+    "description": "We sell many more digital products! See the list below and open a ticket for any product.",
+    "prices": [
+      { "plan": "Adobe Creative Cloud", "price": "Ask in ticket" },
+      { "plan": "YouTube Premium", "price": "Ask in ticket" },
+      { "plan": "Disney+ / Hulu", "price": "Ask in ticket" },
+      { "plan": "Canva Pro / Duolingo Plus", "price": "Ask in ticket" }
+    ],
+    "note": "Apple Music, Disney+, Hulu, Duolingo Plus, and much more available!"
+  }
+}
